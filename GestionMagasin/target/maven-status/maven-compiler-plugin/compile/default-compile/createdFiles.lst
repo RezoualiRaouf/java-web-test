@@ -1,0 +1,11 @@
+services/GestionMagasinWebSOAPImpl.class
+domaine/Categorie.class
+services/GestionMagasinWeb.class
+services/GestionMagasinWebImplREST.class
+domaine/Produit.class
+metier/GestionMagasinMetierImpl.class
+domaine/Vente.class
+domaine/Utilisateur.class
+metier/GestionMagasinMetier.class
+rest/ApplicationConfig.class
+domaine/Fournisseur.class

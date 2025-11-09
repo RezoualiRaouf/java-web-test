@@ -1,0 +1,11 @@
+/home/raouf/NetBeansProjects/GestionMagasin/src/main/java/services/GestionMagasinWebSOAPImpl.java
+/home/raouf/NetBeansProjects/GestionMagasin/src/main/java/services/GestionMagasinWeb.java
+/home/raouf/NetBeansProjects/GestionMagasin/src/main/java/services/GestionMagasinWebImplREST.java
+/home/raouf/NetBeansProjects/GestionMagasin/src/main/java/rest/ApplicationConfig.java
+/home/raouf/NetBeansProjects/GestionMagasin/src/main/java/domaine/Utilisateur.java
+/home/raouf/NetBeansProjects/GestionMagasin/src/main/java/metier/GestionMagasinMetier.java
+/home/raouf/NetBeansProjects/GestionMagasin/src/main/java/domaine/Vente.java
+/home/raouf/NetBeansProjects/GestionMagasin/src/main/java/domaine/Produit.java
+/home/raouf/NetBeansProjects/GestionMagasin/src/main/java/domaine/Categorie.java
+/home/raouf/NetBeansProjects/GestionMagasin/src/main/java/metier/GestionMagasinMetierImpl.java
+/home/raouf/NetBeansProjects/GestionMagasin/src/main/java/domaine/Fournisseur.java
